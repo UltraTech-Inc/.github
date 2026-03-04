@@ -30,8 +30,8 @@ Repositórios públicos usam [MIT/Apache-2.0] (verifique cada repo).
 Projetos internos/privados podem ter política diferente (ver `LICENSE` do repositório).
 
 **Contacto / Suporte**  
-- Email: `opensource@ultratech.com`  
-- Site / Careers: `https://ultratech.example`  
+- Email: `opensource@ultratech.co.mz`  
+- Site / Careers: `https://ultratech.co.mz`  
 - LinkedIn: `UltraTech`  
 
 > Para dúvidas sobre integração ou parcerias, abra uma issue no repo `platform-core` com a label `type: question`.
