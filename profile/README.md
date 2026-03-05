@@ -1,5 +1,3 @@
-# UltraTech, Inc.
-
 <p align="center">
   <a href="https://ultratech.co.mz">
     <img src="https://img.shields.io/badge/Website-ultratech.co.mz-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -309,7 +307,7 @@ Projects are released under MIT or Apache 2.0 license depending on repository.
 | Website  | [https://ultratech.co.mz](https://ultratech.co.mz)                               |
 | Email    | [opensource@ultratech.co.mz](mailto:opensource@ultratech.co.mz)                  |
 | LinkedIn | [https://linkedin.com/company/ultratech](https://linkedin.com/company/ultratech) |
-| GitHub   | [https://github.com/UltraTech](https://github.com/UltraTech-Inc)                     |
+| GitHub   | [https://github.com/UltraTech-Inc](https://github.com/UltraTech-Inc)                     |
 
 ---
 
